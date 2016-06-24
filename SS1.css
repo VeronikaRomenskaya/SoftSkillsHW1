@@ -1,0 +1,13 @@
+body {
+     width: 500px;
+     height: 1000px;
+     background-color:pink;
+     margin:5px 400px 5px 400px;
+}
+.mydiv{text-align: center;
+ }
+.content {background: white;
+             padding: 10px 30px 10px 30px;
+            border: 1px solid silver;
+}
+
